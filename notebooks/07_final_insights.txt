@@ -1,0 +1,78 @@
+Insight 1: Aadhaar enrolment activity is highly seasonal
+
+Evidence:
+Univariate time-series analysis of total enrolments shows a sharp increase peaking around mid-year (July), followed by a significant decline in subsequent months.
+
+Why it matters:
+Recognizing seasonal enrolment peaks enables UIDAI to proactively allocate staff and infrastructure during high-demand periods and avoid resource underutilization during off-peak months.
+
+Insight 2: Child (0–5 years) enrolments dominate overall Aadhaar enrolment
+
+Evidence:
+Age-wise univariate analysis indicates that the 0–5 age group accounts for the largest proportion of total enrolments.
+
+Why it matters:
+This suggests strong integration of Aadhaar enrolment with birth registration and early-life welfare schemes, indicating maturity in early enrolment coverage and shifting system demand toward lifecycle updates rather than new registrations.
+
+Insight 3: Adult enrolments exhibit higher volatility compared to child enrolments
+
+Evidence:
+Trivariate analysis (Time × Age Group × Enrolment) shows that enrolments for older age groups fluctuate more sharply over time than child enrolments.
+
+Why it matters:
+Volatility in adult enrolments highlights the influence of administrative drives or correction-based enrolments, helping policymakers distinguish routine registrations from campaign-driven activity.
+
+Insight 4: Aadhaar enrolment volume is unevenly distributed across states
+
+Evidence:
+State-wise enrolment analysis shows that a small number of states (e.g., high-population states) contribute disproportionately to total enrolments.
+
+Why it matters:
+This supports region-specific planning rather than uniform national strategies, allowing UIDAI to tailor enrolment infrastructure based on demographic and administrative needs.
+
+Insight 5: Biometric activity remains consistently high even when enrolments decline
+
+Evidence:
+Bivariate analysis of enrolment versus biometric activity reveals that biometric events continue at high levels even during periods of declining new enrolments.
+
+Why it matters:
+This indicates that Aadhaar system load is driven not only by enrolments but also by ongoing authentication and biometric lifecycle activities, requiring sustained backend and device infrastructure.
+
+Insight 6: Demographic updates are persistently higher than enrolments
+
+Evidence:
+Bivariate and trivariate analyses show that demographic update volumes consistently exceed new enrolments across most time periods.
+
+Why it matters:
+This highlights that Aadhaar is a living identity system, where continuous updates form a major operational workload, underscoring the need to plan resources beyond enrolment-focused activities.
+
+Insight 7: Enrolment and demographic updates peak together but diverge afterward
+
+Evidence:
+Trivariate heatmap analysis (Month × Enrolment × Demographic Updates) shows synchronized mid-year peaks followed by sharper enrolment decline compared to demographic updates.
+
+Why it matters:
+The divergence indicates that while enrolment demand is campaign-driven, demographic updates reflect ongoing citizen life events, suggesting the need for differentiated capacity planning.
+
+Insight 8: One-time surges in demographic updates indicate exceptional administrative events
+
+Evidence:
+Anomaly detection using Z-score highlights extreme spikes in demographic updates that deviate significantly from routine levels.
+Why it matters:
+Detecting such anomalies helps administrators distinguish exceptional bulk update exercises from routine activity, preventing misinterpretation of operational data.
+
+Insight 9: Repeated enrolment anomalies point to localized administrative stress
+
+Evidence:
+State-level anomaly detection identifies specific regions exhibiting enrolment values far above or below their historical averages on certain dates.
+
+Why it matters:
+Localized anomaly detection allows targeted investigation and corrective action, improving responsiveness without resorting to nationwide interventions.
+
+Insight 10: Aadhaar system workload shifts from enrolment-driven to update-driven over time
+
+Evidence:
+Combined analysis across enrolment, biometric, and demographic datasets shows declining enrolments alongside sustained update activity.
+
+Why it matters:
+This shift reinforces the need for UIDAI to evolve operational planning from enrolment-centric models toward long-term identity lifecycle management.
