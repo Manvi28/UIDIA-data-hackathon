@@ -1,5 +1,4 @@
 Insight 1: Aadhaar enrolment activity is highly seasonal
-
 Evidence:
 Univariate time-series analysis of total enrolments shows a sharp increase peaking around mid-year (July), followed by a significant decline in subsequent months.
 
